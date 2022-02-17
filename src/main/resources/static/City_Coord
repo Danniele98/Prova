@@ -1,0 +1,23 @@
+{
+	"id": 3174130,
+	"name": "Maltignano"
+	"state": ""
+	"country": "IT"
+	"coord":{
+			"lat": 42.832248,
+			"lon": 13.68799
+			}
+}
+
+			
+{
+	"id": 3183509,
+    "name": "Acquasanta Terme",
+    "state": "",
+    "country": "IT",
+    "coord": {
+            "lon": 13.41018,
+            "lat": 42.769939
+        	}
+}
+	
